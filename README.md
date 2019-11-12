@@ -3,7 +3,7 @@
 # Lit-Element Typescript
 
 ```showcase
-<custom-element>HELLO</custom-element>
+<custom-element>HELLO WORLD</custom-element>
 ```
 
 > Created with [webcomponents.dev](https://webcomponents.dev)
